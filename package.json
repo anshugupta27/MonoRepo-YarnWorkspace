@@ -1,0 +1,8 @@
+{
+    "private":true,
+    "name":"monorepo-yarnworkspace",
+    "workspaces":[
+        "adminlient",
+        "webclient"
+    ]
+}
